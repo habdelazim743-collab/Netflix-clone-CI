@@ -37,6 +37,8 @@ separation of concerns and GitOps best practices.
 - **Infrastructure (Terraform & GitHub Actions)**
   https://github.com/habdelazim743-collab/infrastructure-for-Netflix-Clone-K8S-End-to-End-Project
 
+- **GitOps / ArgoCD (Kubernetes Manifests)**
+  https://github.com/habdelazim743-collab/complete_k8s_config_for_netfix_app.git
 
 ------------------------------------------------------------------------
 
@@ -86,7 +88,6 @@ GitHub Actions was mainly used for infrastructure automation.
 
 ![Notification](images/n8n.jpeg)
 ![AlertSuccess](images/CIsuccessslacknotification.png)
-![Prometheus](images/promeseusapplicationpodslackrule.png)
 
 ### Why ELK Instead of CloudWatch
 
